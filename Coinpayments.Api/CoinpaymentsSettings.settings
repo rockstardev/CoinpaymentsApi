@@ -3,16 +3,16 @@
   <Profiles />
   <Settings>
     <Setting Name="PublicKey" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">7e52d3de2ab61dc6fa62d3bdf39f8dc2419e1de8a92c213d93fcd048cb429fa1</Value>
+      <Value Profile="(Default)">6a466b85e7d587e84646bfb7781f66f80ccf30505b5e5c10553f63521fc15c3f</Value>
     </Setting>
     <Setting Name="PrivateKey" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">48CCD816f5808Bb0ee80b4975fda41f0eEcCED81dbaA2AC5085DF9b6395dc7a6</Value>
+      <Value Profile="(Default)">2dbC037f1Bbc8BD69F923c7859cB6f3fA7A510B8E92bdafA1450f5e4d7421908</Value>
     </Setting>
     <Setting Name="IpnSecret" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">eKHaNscBIkXDm3szbXDvIVq1XvzIX6</Value>
+      <Value Profile="(Default)">f7XVkifq9TET</Value>
     </Setting>
     <Setting Name="MerchantId" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">0ba85efeaa35d18186d58ea995f02a08</Value>
+      <Value Profile="(Default)">7532c4bb09b896972596751de2f11515</Value>
     </Setting>
   </Settings>
 </SettingsFile>

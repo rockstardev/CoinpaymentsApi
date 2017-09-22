@@ -25,7 +25,7 @@ namespace Coinpayments.Api {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("7e52d3de2ab61dc6fa62d3bdf39f8dc2419e1de8a92c213d93fcd048cb429fa1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("6a466b85e7d587e84646bfb7781f66f80ccf30505b5e5c10553f63521fc15c3f")]
         public string PublicKey {
             get {
                 return ((string)(this["PublicKey"]));
@@ -34,7 +34,7 @@ namespace Coinpayments.Api {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("48CCD816f5808Bb0ee80b4975fda41f0eEcCED81dbaA2AC5085DF9b6395dc7a6")]
+        [global::System.Configuration.DefaultSettingValueAttribute("2dbC037f1Bbc8BD69F923c7859cB6f3fA7A510B8E92bdafA1450f5e4d7421908")]
         public string PrivateKey {
             get {
                 return ((string)(this["PrivateKey"]));
@@ -43,7 +43,7 @@ namespace Coinpayments.Api {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("eKHaNscBIkXDm3szbXDvIVq1XvzIX6")]
+        [global::System.Configuration.DefaultSettingValueAttribute("f7XVkifq9TET")]
         public string IpnSecret {
             get {
                 return ((string)(this["IpnSecret"]));
@@ -52,7 +52,7 @@ namespace Coinpayments.Api {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0ba85efeaa35d18186d58ea995f02a08")]
+        [global::System.Configuration.DefaultSettingValueAttribute("7532c4bb09b896972596751de2f11515")]
         public string MerchantId {
             get {
                 return ((string)(this["MerchantId"]));
